@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Airtime Automation</string>
+    <string name="ussd_service_description">Handles USSD dialogs for airtime automation</string>
+</resources>
